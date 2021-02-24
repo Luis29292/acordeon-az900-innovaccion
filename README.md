@@ -3,7 +3,7 @@
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
-Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para ayudarle en tu travesía hacia certirficarte en la nube de Azure.
+Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
 **[Link de estudio en Microsoft Learn](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)**
 
@@ -13,10 +13,10 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de terminos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
-  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*
+  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
 
 ## Diagramas
-- [Diagrama de terminos de Azure](AquíVAElDeMari)
+- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
 - [Diagrama de jerarquia de suscripciones de Azure](/res/jerarquia.md)
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
@@ -26,15 +26,21 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
 - [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
-- [Plantillas ARM validades de la comunidad](https://github.com/Azure/azure-quickstart-templates)
+- [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
+- [Curso básico de programación](https://github.com/RodolfoFerro/python-innovaccion)
+
+## Tutoriales
+- [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
+- [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ## Examenes piloto
-- [Prueba de examen AZ-900]()
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
 - [Examen sobre el eje de Arquitectura de Soluciones]()
 - [Examen sobre como seleccionar las herramientas de tu solución]()
+- [Examen de Charlie Simulador AZ-900 *Solo Innovacción* ](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UMFpTTzQ5MU82TVdQWVI0UThJVzhKTzMyNS4u)
 
 ## Recursos extra
 - [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)
